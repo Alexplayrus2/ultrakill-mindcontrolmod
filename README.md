@@ -1,14 +1,17 @@
-# download the mod here - https://thunderstore.io/c/ultrakill/p/Alexplayrus1/Mind_Control/
 # HOW TO USE
-keep in mind this mod isnt perfect because its my first time making a bepinex mod
-
-you will need bepinex configuration manager and unity explorer, close unity explorer on the intro screen with f7 so it doesnt crash, go to a level, enable cheats and enable invincibility, enemies attack eachother and enemies ignore player
-once you did that spawn in an enemy, open unity explorer, open inspector and use mouse inspect (world), hover the mouse over the enemy you want to control, it will give you a path to the enemy
-press esc and close unity explorer, press f1, press mindcontrol and paste or type the enemy path into the textbox, press close and now you should be kinda controlling the enemy
-
+press m to cycle through enemies, if you want to stop playing as an enemy press n and restart the level
+# KNOWN BUGS
+other ranged enemies (e.g. maurice, stray, soldier) target your camera's position instead of your actual position
+cycling through enemies is very buggy when theres more than one
+you need to press m twice when controlling an enemy the first time after loading a level to actually control it
 # showcase video
+[![showcase](http://img.youtube.com/vi/t7V9F9F1pR0.jpg)](http://www.youtube.com/watch?v=t7V9F9F1pR0 "play as enemies - ultrakill mind control mod showcase and tutorial
+")
+
+# showcase video (OLD)
 [![showcase](http://img.youtube.com/vi/dIYgIoY10IY/0.jpg)](http://www.youtube.com/watch?v=dIYgIoY10IY "ultrakill mind control mod showcase: play as enemies
 ")
+
 # compile instructions
 make sure you have dotnet installed for this, make a folder named lib inside of the folder where the source code is and copy these files into it (COPY PASTE THEM, DO NOT MOVE THEM OR YOUR GAME WILL BREAK): 
 ULTRAKILL/BepInEx/core/BepInEx.dll
