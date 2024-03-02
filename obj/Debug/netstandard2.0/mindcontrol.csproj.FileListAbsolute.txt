@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\bin\Debug\netstandard2.0\mindcontrol.deps.json
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\bin\Debug\netstandard2.0\mindcontrol.dll
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\bin\Debug\netstandard2.0\mindcontrol.pdb
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.dll
+C:\Users\ADMIN\Downloads\ukmindcontrol\mindcontrol\obj\Debug\netstandard2.0\mindcontrol.pdb
